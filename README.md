@@ -1,2 +1,2 @@
-# MachineLearningClassification
-Machine Learning Classification - Projects
+# Machine Learning Classification - Projects
+
